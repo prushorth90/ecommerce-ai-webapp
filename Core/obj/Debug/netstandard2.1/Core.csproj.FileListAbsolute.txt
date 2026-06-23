@@ -1,0 +1,11 @@
+/Users/prush/Desktop/eCommerce-App/Core/bin/Debug/netstandard2.1/Core.deps.json
+/Users/prush/Desktop/eCommerce-App/Core/bin/Debug/netstandard2.1/Core.dll
+/Users/prush/Desktop/eCommerce-App/Core/bin/Debug/netstandard2.1/Core.pdb
+/Users/prush/Desktop/eCommerce-App/Core/obj/Debug/netstandard2.1/Core.csproj.AssemblyReference.cache
+/Users/prush/Desktop/eCommerce-App/Core/obj/Debug/netstandard2.1/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prush/Desktop/eCommerce-App/Core/obj/Debug/netstandard2.1/Core.AssemblyInfoInputs.cache
+/Users/prush/Desktop/eCommerce-App/Core/obj/Debug/netstandard2.1/Core.AssemblyInfo.cs
+/Users/prush/Desktop/eCommerce-App/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
+/Users/prush/Desktop/eCommerce-App/Core/obj/Debug/netstandard2.1/Core.sourcelink.json
+/Users/prush/Desktop/eCommerce-App/Core/obj/Debug/netstandard2.1/Core.dll
+/Users/prush/Desktop/eCommerce-App/Core/obj/Debug/netstandard2.1/Core.pdb

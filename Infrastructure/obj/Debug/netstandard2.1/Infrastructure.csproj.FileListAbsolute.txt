@@ -1,0 +1,14 @@
+/Users/prush/Desktop/eCommerce-App/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.deps.json
+/Users/prush/Desktop/eCommerce-App/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.dll
+/Users/prush/Desktop/eCommerce-App/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.pdb
+/Users/prush/Desktop/eCommerce-App/Infrastructure/bin/Debug/netstandard2.1/Core.dll
+/Users/prush/Desktop/eCommerce-App/Infrastructure/bin/Debug/netstandard2.1/Core.pdb
+/Users/prush/Desktop/eCommerce-App/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.AssemblyReference.cache
+/Users/prush/Desktop/eCommerce-App/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prush/Desktop/eCommerce-App/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/prush/Desktop/eCommerce-App/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfo.cs
+/Users/prush/Desktop/eCommerce-App/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/prush/Desktop/eCommerce-App/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.sourcelink.json
+/Users/prush/Desktop/eCommerce-App/Infrastructure/obj/Debug/netstandard2.1/Infrastr.15EFFBFE.Up2Date
+/Users/prush/Desktop/eCommerce-App/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.dll
+/Users/prush/Desktop/eCommerce-App/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.pdb
