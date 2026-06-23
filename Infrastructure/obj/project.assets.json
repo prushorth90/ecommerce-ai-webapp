@@ -5721,11 +5721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/prush/Desktop/eCommerce-App/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/Users/prush/Desktop/ecommerce-ai-webapp/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/Users/prush/Desktop/eCommerce-App/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/Users/prush/Desktop/ecommerce-ai-webapp/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/Users/prush/.nuget/packages/",
-      "outputPath": "/Users/prush/Desktop/eCommerce-App/Infrastructure/obj/",
+      "outputPath": "/Users/prush/Desktop/ecommerce-ai-webapp/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/prush/.nuget/NuGet/NuGet.Config"
@@ -5741,8 +5741,8 @@
           "framework": "netstandard2.1",
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "/Users/prush/Desktop/eCommerce-App/Core/Core.csproj": {
-              "projectPath": "/Users/prush/Desktop/eCommerce-App/Core/Core.csproj"
+            "/Users/prush/Desktop/ecommerce-ai-webapp/Core/Core.csproj": {
+              "projectPath": "/Users/prush/Desktop/ecommerce-ai-webapp/Core/Core.csproj"
             }
           }
         }
@@ -5819,14 +5819,10 @@
   },
   "logs": [
     {
-      "code": "NU1902",
+      "code": "NU1900",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 6.5.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "netstandard2.1"
-      ]
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K2QtJji/RQI=",
+  "dgSpecHash": "FszNDi0w/iY=",
   "success": true,
-  "projectFilePath": "/Users/prush/Desktop/eCommerce-App/API/API.csproj",
+  "projectFilePath": "/Users/prush/Desktop/ecommerce-ai-webapp/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/prush/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/Users/prush/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -156,16 +156,13 @@
   ],
   "logs": [
     {
-      "code": "NU1902",
+      "code": "NU1900",
       "level": "Warning",
-      "message": "Package 'Microsoft.AspNetCore.Authentication.JwtBearer' 3.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-q7cg-43mg-qp69",
-      "projectPath": "/Users/prush/Desktop/eCommerce-App/API/API.csproj",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "/Users/prush/Desktop/ecommerce-ai-webapp/API/API.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/prush/Desktop/eCommerce-App/API/API.csproj",
-      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
-      "targetGraphs": [
-        "net8.0"
-      ]
+      "filePath": "/Users/prush/Desktop/ecommerce-ai-webapp/API/API.csproj",
+      "targetGraphs": []
     }
   ]
 }

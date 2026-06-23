@@ -8009,11 +8009,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/prush/Desktop/eCommerce-App/API/API.csproj",
+      "projectUniqueName": "/Users/prush/Desktop/ecommerce-ai-webapp/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/prush/Desktop/eCommerce-App/API/API.csproj",
+      "projectPath": "/Users/prush/Desktop/ecommerce-ai-webapp/API/API.csproj",
       "packagesPath": "/Users/prush/.nuget/packages/",
-      "outputPath": "/Users/prush/Desktop/eCommerce-App/API/obj/",
+      "outputPath": "/Users/prush/Desktop/ecommerce-ai-webapp/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/prush/.nuget/NuGet/NuGet.Config"
@@ -8029,8 +8029,8 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/prush/Desktop/eCommerce-App/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/prush/Desktop/eCommerce-App/Infrastructure/Infrastructure.csproj"
+            "/Users/prush/Desktop/ecommerce-ai-webapp/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/prush/Desktop/ecommerce-ai-webapp/Infrastructure/Infrastructure.csproj"
             }
           }
         }
@@ -8112,14 +8112,10 @@
   },
   "logs": [
     {
-      "code": "NU1902",
+      "code": "NU1900",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNetCore.Authentication.JwtBearer' 3.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-q7cg-43mg-qp69",
-      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
-      "targetGraphs": [
-        "net8.0"
-      ]
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
     }
   ]
 }

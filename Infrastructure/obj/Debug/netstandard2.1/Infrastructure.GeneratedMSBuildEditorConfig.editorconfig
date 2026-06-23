@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Infrastructure
-build_property.ProjectDir = /Users/prush/Desktop/eCommerce-App/Infrastructure/
+build_property.ProjectDir = /Users/prush/Desktop/ecommerce-ai-webapp/Infrastructure/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

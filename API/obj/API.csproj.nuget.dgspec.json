@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/prush/Desktop/eCommerce-App/API/API.csproj": {}
+    "/Users/prush/Desktop/ecommerce-ai-webapp/API/API.csproj": {}
   },
   "projects": {
-    "/Users/prush/Desktop/eCommerce-App/API/API.csproj": {
+    "/Users/prush/Desktop/ecommerce-ai-webapp/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/prush/Desktop/eCommerce-App/API/API.csproj",
+        "projectUniqueName": "/Users/prush/Desktop/ecommerce-ai-webapp/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/prush/Desktop/eCommerce-App/API/API.csproj",
+        "projectPath": "/Users/prush/Desktop/ecommerce-ai-webapp/API/API.csproj",
         "packagesPath": "/Users/prush/.nuget/packages/",
-        "outputPath": "/Users/prush/Desktop/eCommerce-App/API/obj/",
+        "outputPath": "/Users/prush/Desktop/ecommerce-ai-webapp/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/prush/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/prush/Desktop/eCommerce-App/Infrastructure/Infrastructure.csproj": {
-                "projectPath": "/Users/prush/Desktop/eCommerce-App/Infrastructure/Infrastructure.csproj"
+              "/Users/prush/Desktop/ecommerce-ai-webapp/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/prush/Desktop/ecommerce-ai-webapp/Infrastructure/Infrastructure.csproj"
               }
             }
           }
@@ -108,14 +108,14 @@
         }
       }
     },
-    "/Users/prush/Desktop/eCommerce-App/Core/Core.csproj": {
+    "/Users/prush/Desktop/ecommerce-ai-webapp/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/prush/Desktop/eCommerce-App/Core/Core.csproj",
+        "projectUniqueName": "/Users/prush/Desktop/ecommerce-ai-webapp/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/prush/Desktop/eCommerce-App/Core/Core.csproj",
+        "projectPath": "/Users/prush/Desktop/ecommerce-ai-webapp/Core/Core.csproj",
         "packagesPath": "/Users/prush/.nuget/packages/",
-        "outputPath": "/Users/prush/Desktop/eCommerce-App/Core/obj/",
+        "outputPath": "/Users/prush/Desktop/ecommerce-ai-webapp/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/prush/.nuget/NuGet/NuGet.Config"
@@ -175,14 +175,14 @@
         }
       }
     },
-    "/Users/prush/Desktop/eCommerce-App/Infrastructure/Infrastructure.csproj": {
+    "/Users/prush/Desktop/ecommerce-ai-webapp/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/prush/Desktop/eCommerce-App/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/Users/prush/Desktop/ecommerce-ai-webapp/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/Users/prush/Desktop/eCommerce-App/Infrastructure/Infrastructure.csproj",
+        "projectPath": "/Users/prush/Desktop/ecommerce-ai-webapp/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/Users/prush/.nuget/packages/",
-        "outputPath": "/Users/prush/Desktop/eCommerce-App/Infrastructure/obj/",
+        "outputPath": "/Users/prush/Desktop/ecommerce-ai-webapp/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/prush/.nuget/NuGet/NuGet.Config"
@@ -198,8 +198,8 @@
             "framework": "netstandard2.1",
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/prush/Desktop/eCommerce-App/Core/Core.csproj": {
-                "projectPath": "/Users/prush/Desktop/eCommerce-App/Core/Core.csproj"
+              "/Users/prush/Desktop/ecommerce-ai-webapp/Core/Core.csproj": {
+                "projectPath": "/Users/prush/Desktop/ecommerce-ai-webapp/Core/Core.csproj"
               }
             }
           }
